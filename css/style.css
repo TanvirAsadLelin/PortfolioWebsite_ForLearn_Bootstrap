@@ -1,0 +1,11 @@
+#topHeader{
+    background-color: ghostwhite;
+    border-bottom: 1px solid silver;
+}
+
+#topHeader a{
+    color: #34495e;
+    font-weight: 600;
+    font-size: 0.89rem;
+    text-decoration: none;
+}
