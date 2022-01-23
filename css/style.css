@@ -18,3 +18,24 @@ nav ul li a{
      font-size: 1.1rem;
      font-weight: 600;
 }
+
+/* Start footer   */
+.full-footer{
+    background-color: #98a0a8;
+   position: absolute;
+    bottom: o;
+    width: 100%;
+}
+.top-footer p{
+    color: black;
+}
+.top-footer a{
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+}
+.top-footer h3{
+    color: black;
+}
+
+/* End footer   */
