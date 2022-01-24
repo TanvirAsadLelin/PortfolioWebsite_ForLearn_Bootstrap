@@ -20,11 +20,10 @@ nav ul li a{
 }
 
 /* Start footer   */
+
 .full-footer{
     background-color: #98a0a8;
-   position: absolute;
-    bottom: o;
-    width: 100%;
+
 }
 .top-footer p{
     color: black;
@@ -38,4 +37,11 @@ nav ul li a{
     color: black;
 }
 
+.bottom-footer{
+    background-color: #03080e;
+}
+
+.bottom-footer p{
+    color: white;
+}
 /* End footer   */
