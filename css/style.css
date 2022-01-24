@@ -38,7 +38,7 @@ nav ul li a{
 }
 
 .bottom-footer{
-    background-color: #03080e;
+    background-color: #2e5257;
 }
 
 .bottom-footer p{
@@ -56,5 +56,30 @@ nav ul li a{
     width: 200px;
 }
 
+.requirements-section{
+    background-color: #71997c;
+}
+
+.home-newsletter{
+    background-color: #71997c;
+}
+
+.home-newsletter .form-control{
+   height: 50px;
+   border-color: transparent;
+   border-radius: 20px 0 0 20px;
+}
+
+.home-newsletter .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background-color:#2e5257;
+    color: black;
+   
+}
+
+.clients-section {
+     background-color: #71997c;
+}
 
 /* Section End   */
